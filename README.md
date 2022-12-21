@@ -1,0 +1,2 @@
+# ThreeConferences
+Proyecto realizado en lenguaje de programación Java el cual trata de un arbol de conferencias con diferentes niveles de jerarquización, cuenta con un proyecto para el servidor, otro para la interfaz del cliente y otro para la visualización desde el administrador quién autoriza los permisos para manejar una conferencia si un cliente así lo desea. Se hace manejo de hilos, arboles N-arios , con una arquitectura Cliente - Servidor y MVC haciendo uso del Patrón Observer
